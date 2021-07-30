@@ -1,7 +1,7 @@
   ### 🐱‍🚀 Hello there 
 
 - 🌱 I’m currently learning from a bootcamp
-- 🐱‍💻 I’m looking for new projects to learn more
+- 🐱‍💻 I’m looking for new projects to learn more about machine learning and AI
 - 🐱‍👤 How to reach me martinsraulino@gmail.com
 <div>
   <a href="https://github.com/Alphatyrant">
