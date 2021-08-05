@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alphatyrant&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphatyrant&layout=compact&langs_count=7&theme=gotham"/>
    <div>
-     Always looking for a anime or a new manwa to red 
+    <a href="https://leitor.net/manga/rankers-return-redice-studio/320713/capitulo-1#/!page0">looking for a new manwa to red ?
      <img align="right" alt="rafs-yoda" src="https://media.discordapp.net/attachments/855706938427834388/861781665504559105/03xbhgf1w7w51.gif" width="250">
 </div>
     </div>
