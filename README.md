@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning from a bootcamp
 - 🐱‍💻 I’m looking for new projects to learn more about machine learning and AI
 - 🐱‍👤 How to reach me  <a href="mailto:martinsraulino@gmail.com">martinsraulino@gmail.com
+  ##
 <div>
   <div style="display: inline_block"><br>
   <a href="https://github.com/Alphatyrant">
@@ -13,4 +14,4 @@
     <br /><a align="right" href="https://leitor.net/manga/solo-leveling/170022/capitulo-1"> Looking for a new manwa to read ?
 
     
-
+##
