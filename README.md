@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphatyrant&layout=compact&langs_count=7&theme=gotham"/>
    <div>
      Always looking for a anime or a new manwa to red 
-     <img align="right" alt="rafs-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+     <img align="right" alt="rafs-yoda" src="https://media.discordapp.net/attachments/855706938427834388/861781665504559105/03xbhgf1w7w51.gif" width="250">
 </div>
     </div>
 
