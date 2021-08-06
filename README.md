@@ -4,7 +4,7 @@
 <h4>- 🌱 I’m currently learning from a bootcamp
 <h4>- 🐱‍💻 I’m looking for new projects to learn more about machine learning and AI
 <h4>- 🐱‍👤 How to reach me  <a href="mailto:martinsraulino@gmail.com">martinsraulino@gmail.com
-  ##
+  
 <div>
   <div style="display: inline_block"><br>
   <a href="https://github.com/Alphatyrant">
