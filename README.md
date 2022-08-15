@@ -1,7 +1,7 @@
  
  <h2> 🐱‍🚀 Hello there 
 
-<h4>- 🌱 I’m currently working embedded systems
+<h4>- 🌱 I’m currently working on embedded systems
 <h4>- 🐱‍💻 I’m looking for new projects to learn more about machine learning and AI
 <h4>- 🐱‍👤 How to reach me  <a href="mailto:martinsraulino@gmail.com">martinsraulino@gmail.com
   
